@@ -1,7 +1,5 @@
 # 🌴 Welcome to the jungle! 🦜
-🧑 **Jakub Zahumensky**  
 🎯 Aspiring Data Scientist  
-📍 Based in Prague, Czech Republic  
 🚗 Interested in science, machine learning & data-driven solutions to real-world problems  
 
 ---
