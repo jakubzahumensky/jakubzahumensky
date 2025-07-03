@@ -1,36 +1,57 @@
-## Welcome to the jungle! 👋
-
-<!--
-# 👋 Hi, I'm Jakub Zahumensky
-
-🎯 **Aspiring Data Scientist transitioning from academic research to industry**  
+# Welcome to the jungle! 👋 
+🧑 **Jakub Zahumensky**  
+🎯 Aspiring Data Scientist  
 📍 Based in Prague, Czech Republic  
-🚗 Interested in automotive data science, machine learning & data-driven mobility solutions
+🚗 Interested in science, machine learning & data-driven solutions to real-world problems  
 
 ---
 
 ## 🧠 Background
 
-I'm a trained molecular biologist with a strong research background in **quantitative fluorescence microscopy**, **automated image analysis**, and **large-scale data processing**. I spent several years investigating how membrane microdomains organize key processes in yeast cells, during which I developed and implemented:
+I'm a trained biophysicist with a strong research background in **quantitative fluorescence microscopy**, **automated image analysis**, and **large-scale data processing**. I spent several years investigating how membrane microdomains organize key processes in yeast cells, during which I developed and implemented:
 
-- Automated analysis workflows using **Fiji (ImageJ macros, 1500–2000 lines)**  
+- Automated analysis workflows using **Fiji (ImageJ) macros**  
 - Batch data processing and **statistical analysis using R**  
-- Visualization techniques including **PCA, clustering, and heatmaps** for microscopy, **lipidomics**, and **NGS** datasets
+- Visualization techniques including **PCA and heatmaps** for microscopy, **lipidomics**, and **NGS** datasets
 
 ---
 
 ## 💡 My Transition to Data Science
 
-🔁 While working with complex datasets in biology, I discovered a passion for **data wrangling**, **pattern recognition**, and **automated pipelines**. This led me to pivot toward **data science**, particularly in the **automotive and mobility** sector, where similar analytical challenges meet real-world impact.
+🔁 While working with complex datasets in cellular biology and microscopy, I discovered a passion for **data wrangling**, **pattern recognition**, and **automated pipelines**, which led me to pivot toward **data science**.
 
+---
+
+## 🚀 Current goals
 I'm currently focused on:
-
 - 🐍 Learning **Python for data science** (transitioning from R)
 - 📊 Exploring **pandas**, **NumPy**, and **Matplotlib** for efficient data manipulation and visualization
 - 🤖 Diving into **scikit-learn** for classical machine learning
-- 🚘 Understanding **automotive data formats** and protocols relevant to smart mobility and EVs
 
 ---
+
+## 🛠️ Tools & Skills
+
+| Domain              | Tools / Skills                                |
+|---------------------|-----------------------------------------------|
+| Programming         | Python, R, Fiji (ImageJ) macro language       |
+| Dev Tools           | Git, GitHub, Markdown, LaTeX                  |
+| Scientific Domains  | cell biology, microscopy, lipidomics, RNAseq  |
+
+
+---
+
+## 📫 Let's Connect
+I'm always open to collaboration and feedback. Feel free to reach out:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jakub-zahumensky-67270a33/)
+- 💬 [e-mail](jakub.zahumensky@gmail.com)
+
+Thanks for visiting! 🌟
+
+
+<!--
+
 
 ## 🚀 Current Goals
 
@@ -47,7 +68,7 @@ I'm currently focused on:
 
 | Domain              | Tools / Skills                                |
 |---------------------|------------------------------------------------|
-| Programming         | Python, R, Fiji (ImageJ macros)               |
+| Programming         | Python, R, Fiji (ImageJ) macro language       |
 | Data Analysis       | pandas, NumPy, R tidyverse, PCA, clustering   |
 | Visualization       | Matplotlib, ggplot2, seaborn                  |
 | Machine Learning    | scikit-learn (beginner), regression, SVMs     |
