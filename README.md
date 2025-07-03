@@ -1,4 +1,4 @@
-# Welcome to the jungle! 👋 
+# 🌴 Welcome to the jungle! 🦜
 🧑 **Jakub Zahumensky**  
 🎯 Aspiring Data Scientist  
 📍 Based in Prague, Czech Republic  
@@ -46,8 +46,6 @@ I'm always open to collaboration and feedback. Feel free to reach out:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jakub-zahumensky-67270a33/)
 - 💬 [e-mail](jakub.zahumensky@gmail.com)
-
-Thanks for visiting! 🌟
 
 
 <!--
