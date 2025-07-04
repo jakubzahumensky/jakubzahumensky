@@ -44,6 +44,8 @@ I'm always open to collaboration and feedback. Feel free to reach out:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jakub-zahumensky-67270a33/)
 - 💬 [e-mail](jakub.zahumensky@gmail.com)
+- 📄 [*Curriculum vitae*](Jakub_Zahumensky-CV.pdf)
+- 🎓 [Selected publications](Jakub_Zahumensky-selected_publications.pdf)
 
 
 <!--
