@@ -21,10 +21,10 @@ I'm a trained biophysicist with a strong research background in **quantitative f
 ---
 
 ## 🚀 Current goals
-I'm currently focused on:
-- 🐍 Learning **Python for data science** (transitioning from R)
-- 📊 Exploring **pandas**, **NumPy**, and **Matplotlib** for efficient data manipulation and visualization
-- 🤖 Diving into **scikit-learn** for classical machine learning
+
+- 🐍 Learn **Python for data science** (transitioning from R)
+- 📊 Explore **pandas**, **NumPy**, and **Matplotlib** for efficient data manipulation and visualization
+- 🤖 Dive into **scikit-learn** for classical machine learning
 
 ---
 
